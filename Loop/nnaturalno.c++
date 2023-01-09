@@ -5,7 +5,13 @@ int main() {
 
     int n;
     
-    cout<<"The first n natural number is:";
+    for(n=1; n<=2; n++)
+    {
+        for(int m=1; m<=2; m++ )
+        {
+            cout<<"i am runing"<< m <<endl;
+        }
+    }
 
 
 }
