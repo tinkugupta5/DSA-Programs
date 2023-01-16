@@ -17,6 +17,7 @@ int main()
             value = value +1 ;
             j = j+1;
         }
+        
 
         cout<<endl;
         i = i+1;
