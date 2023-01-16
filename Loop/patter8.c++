@@ -13,7 +13,7 @@ int main()
         int value = i;
         while(j<=i)
         {
-            cout<<value;
+             cout<<value;
             value = value +1 ;
             j = j+1;
         }
