@@ -12,7 +12,6 @@ int main()
 
         while (j <= n)
         {
-
             /* code */
             cout << start;
             start = start + 1;
