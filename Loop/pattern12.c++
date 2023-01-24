@@ -9,7 +9,6 @@ int main()
     while (i <= n)
     {
         int j = 1;
-
         while (j <= n)
         {
             /* code */
@@ -17,7 +16,6 @@ int main()
             start = start + 1;
             j = j + 1;
         }
-
         /* code */
         cout << endl;
 
