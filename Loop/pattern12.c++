@@ -18,7 +18,6 @@ int main()
         }
         /* code */
         cout << endl;
-
         i = i + 1;
     }
 }
